@@ -1,6 +1,11 @@
+<img src="https://github.com/SamuelSanchez17/SamuelSanchez17/blob/main/gojo.gif?raw=true" alt="Banner" width="1000" height="350">
+
+
+
 
 <h1 align="center"><b>Hi , I'm Samuel Sanchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelsanchez17&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsanchez17" /> </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
 
@@ -9,7 +14,7 @@
 - :sparkles: A passionate software engineer and developer learning new things
 - :e-mail: How to reach me <a href="mailto:Sami28017@hotmail.com"><b>Sami28017@hotmail.com</b></a>
 - :zap: Currently learning Web Development by Self
-- :calling: I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- :calling: I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/samuel_sanchez)
 <br><br>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="50"><b> Connect with me </b>
@@ -24,7 +29,7 @@
 
 <p align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,vue,swift,html,css)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=c,java,php,py,js,vue,swift,html,css)](https://skillicons.dev)<br>
   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)<br>
   [![My Skills](https://skillicons.dev/icons?i=gcp,pycharm,git,github,linux,vscode)](https://skillicons.dev)	
   
@@ -32,12 +37,8 @@
 </p>
 
 <br>
-<br>
 
 -----
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -45,9 +46,10 @@
 <div align="center">
 
 <a href="https://https://github.com/SamuelSanchez17/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelSanchez17&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SamuelSanchez17"/>
 </a>
 </div>
+
 
 <br>
 <br>
