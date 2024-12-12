@@ -11,7 +11,6 @@
 - :sparkles: A passionate software engineer and developer learning new things
 - :e-mail: How to reach me <a href="mailto:Samuel.sanchezdev17@gmail.com"><b>Samuel.sanchezdev17@gmail.com</b></a>
 - :zap: Currently learning Web Development by Self
-- :calling: I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/samuel_sanchez)
 <br><br>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="50"><b> Connect with me </b>
