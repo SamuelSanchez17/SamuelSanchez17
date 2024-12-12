@@ -9,7 +9,7 @@
 <br>
 
 - :sparkles: A passionate software engineer and developer learning new things
-- :e-mail: How to reach me <a href="mailto:Sami28017@hotmail.com"><b>Sami28017@hotmail.com</b></a>
+- :e-mail: How to reach me <a href="mailto:Samuel.sanchezdev17@gmail.com"><b>Samuel.sanchezdev17@gmail.com</b></a>
 - :zap: Currently learning Web Development by Self
 - :calling: I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/samuel_sanchez)
 <br><br>
