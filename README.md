@@ -25,8 +25,8 @@
 
 <p align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=c,java,php,py,js,vue,swift,html,css)](https://skillicons.dev)<br>
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=c,java,php,py,js,vue,swift,html,css,rust)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite)](https://skillicons.dev)<br>
   [![My Skills](https://skillicons.dev/icons?i=gcp,pycharm,git,github,linux,vscode)](https://skillicons.dev)	
   
 
