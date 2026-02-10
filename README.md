@@ -14,8 +14,7 @@
 <br><br>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="50"><b> Connect with me </b>
-<a href = 'https://www.linkedin.com/in/samuel-sanchez-guzman-98a5a827a'> <img src="https://skillicons.dev/icons?i=linkedin"/></a> 
-<a href = 'https://discordapp.com/users/812042976398147695'> <img src="https://skillicons.dev/icons?i=discord"/></a> 
+<a href = 'https://www.linkedin.com/in/samuel-sanchez-guzman-98a5a827a'> <img src="https://skillicons.dev/icons?i=linkedin"/></a>  
 
 <br>
 
