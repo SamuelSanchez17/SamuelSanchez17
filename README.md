@@ -6,6 +6,9 @@
 
 ## <picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgxNXA5anQ2amVpcDdlMXFxNWF6bWV6MzYwb3RjZmV2cTk2dDVsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width = 40px></picture> **About me**
 
+I´m Fullstack Software Developer specializing in backend development with over 2 years of experience building scalable REST APIs and database systems. Proficient in Java, Python, and JavaScript, with expertise in MySQL and PostgreSQL. Expert in Agile methodologies and version control with Git, focused on creating efficient, well-structured technological solutions with real-world impact.
+
+
 <br>
 
 - :sparkles: A passionate software engineer and developer learning new things
@@ -46,16 +49,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-
-<a href="https://https://github.com/SamuelSanchez17/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelSanchez17&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SamuelSanchez17"/>
+<p align="center">
+<a href="https://github.com/SamuelSanchez17">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamuelSanchez17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamuelSanchez17&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</div>
-
-
-<br>
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
