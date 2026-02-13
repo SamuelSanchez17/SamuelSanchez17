@@ -23,11 +23,19 @@
 <br>
 
 <p align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=c,java,php,py,js,vue,swift,html,css,rust)](https://skillicons.dev)<br>
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite)](https://skillicons.dev)<br>
-  [![My Skills](https://skillicons.dev/icons?i=gcp,pycharm,git,github,linux,vscode)](https://skillicons.dev)	
-  
+
+
+### 🎨 Frontend Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,swift,html,css,react,vue)](https://skillicons.dev)
+
+### ⚙️ Backend Development
+[![My Skills](https://skillicons.dev/icons?i=c,java,php,py,swift,rust)](https://skillicons.dev)
+
+### 🗄️ Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite)](https://skillicons.dev)
+
+### 🛠️ Software Tools
+[![My Skills](https://skillicons.dev/icons?i=gcp,pycharm,git,github,linux,vscode,docker)](https://skillicons.dev)
 
 </p>
 
