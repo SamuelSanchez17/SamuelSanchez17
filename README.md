@@ -29,16 +29,16 @@ I´m Fullstack Software Developer specializing in backend development with over 
 
 
 ### 🎨 Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,swift,html,css,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,swift,html,css,react,vue)](https://skillicons.dev)
 
 ### ⚙️ Backend Development
-[![My Skills](https://skillicons.dev/icons?i=c,java,php,py,swift,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,php,py,swift,rust)](https://skillicons.dev)
 
 ### 🗄️ Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite)](https://skillicons.dev)
 
-### 🛠️ Software Tools
-[![My Skills](https://skillicons.dev/icons?i=gcp,pycharm,git,github,linux,vscode,docker)](https://skillicons.dev)
+### 🛠️ Software & Tools
+[![My Skills](https://skillicons.dev/icons?i=gcp,pycharm,git,github,linux,vscode,docker,postman,eclipse,tauri)](https://skillicons.dev)
 
 </p>
 
