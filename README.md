@@ -32,13 +32,13 @@ Full-Stack Developer with 2+ years of experience building production software fo
 [![Skills](https://skillicons.dev/icons?i=java,js,ts,swift,python,rust,sql)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![Skills](https://skillicons.dev/icons?i=spring,react,vue,angular)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=spring,react,vue,angular,firebase)](https://skillicons.dev)
 
 ### Databases
 [![Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![Skills](https://skillicons.dev/icons?i=git,github,tauri,postman,figma,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,tauri,postman,figma,vscode,gcp)](https://skillicons.dev)
 
 ---
 
