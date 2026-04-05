@@ -5,8 +5,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samuelsanchez17&label=Profile%20views&color=f5a623&style=flat" alt="samuelsanchez17" />
-  <a href="https://samuelsanchez.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-samuelsanchez.vercel.app-f5a623?style=flat&logo=vercel&logoColor=white" />
+  <a href="https://samuelsanchez.dev">
+    <img src="https://img.shields.io/badge/Portfolio-samuelsanchez.dev-f5a623?style=flat&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-sanchez-guzman">
     <img src="https://img.shields.io/badge/LinkedIn-samuel--sanchez--guzman-0077B5?style=flat&logo=linkedin&logoColor=white" />
@@ -81,7 +81,7 @@ Always building something. If you have an interesting project, a challenging pro
 ---
 
 <p align="center">
-  <a href="https://samuelsanchez.vercel.app">🌐 Portfolio</a> ·
+  <a href="https://samuelsanchez.dev">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/samuel-sanchez-guzman">💼 LinkedIn</a> ·
   <a href="mailto:samuel.sanchezdev17@gmail.com">✉️ Email</a>
 </p>
