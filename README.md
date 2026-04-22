@@ -45,7 +45,7 @@ I'm self-taught, adaptable and comfortable jumping into projects at early stages
 [![Skills](https://skillicons.dev/icons?i=java,js,ts,python,rust,swift,sql)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![Skills](https://skillicons.dev/icons?i=spring,react,angular,vue,tauri,firebase)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=spring,react,angular,vue,tailwindcss,tauri,firebase)](https://skillicons.dev)
 
 ### Databases
 [![Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
